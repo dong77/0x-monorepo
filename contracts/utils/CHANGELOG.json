@@ -17,7 +17,11 @@
             {
                 "note": "Added Address.sol with test for whether or not an address is a contract",
                 "pr": 1657
-            }
+            },
+            {
+                "note": "Run Web3ProviderEngine without excess block polling",
+                "pr": 1695
+
         ]
     },
     {

@@ -17,6 +17,10 @@
             {
                 "note": "Bumped solidity version to ^0.5.5",
                 "pr": 1701
+            },
+            {
+                "note": "Run Web3ProviderEngine without excess block polling",
+                "pr": 1695
             }
         ]
     },
